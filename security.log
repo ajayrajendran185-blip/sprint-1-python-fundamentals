@@ -1,0 +1,339 @@
+INFO:root:Ajay entered the company
+WARNING:root:Unknown person is standing near the entrance
+INFO:root:Security guard checked the visitor
+INFO:root:Security guard started duty
+ERROR:root:Main gate lock is broken
+INFO:root:Security guard contacted maintenance team
+INFO:root:Security guard started duty
+INFO:root:Visitors entered the building
+WARNING:root:Unknown person is near the entrance
+ERROR:root:Main gate lock is broken
+CRITICAL:root:Fire detected inside the building
+INFO:root:Emergency team has been contacted
+INFO:root:Security guard started duty
+CRITICAL:root:Fire detected inside the building
+INFO:root:Emergency team has been contacted
+INFO:root:User logged in
+WARNING:root:Password attempt failed
+INFO:root:User logged in
+INFO:root:Ajay entered the company
+INFO:root:Ajay went to the meeting room
+INFO:root:Ajay completed his meeting
+INFO:root:Ajay left the company
+INFO:root:User logged in
+INFO:root:Money deposited
+INFO:root:Money withdrawn
+ERROR:root:Transaction failed
+INFO:root:User logged in
+WARNING:root:Low battery
+ERROR:root:Payment failed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Payment completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
+INFO:root:Bank transaction completed
